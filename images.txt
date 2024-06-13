@@ -1,3 +1,3 @@
-portainer/portainer-ce:2.20.3
+xprobe/xinference:nightly-main-cpu
 #支持指定架构 
---platform=linux/amd64 portainer/portainer-ce:2.20.3
+--platform=linux/amd64 xprobe/xinference:nightly-main-cpu
