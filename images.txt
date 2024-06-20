@@ -1,3 +1,3 @@
-xprobe/xinference:nightly-main-cpu
+star7th/showdoc:v3.2.6
 #支持指定架构
---platform=linux/amd64 xprobe/xinference:nightly-main-cpu
+--platform=linux/amd64 star7th/showdoc:v3.2.6
