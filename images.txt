@@ -1,3 +1,3 @@
-star7th/showdoc:v3.2.6
+langgenius/dify-api:0.6.12-fix1
 #支持指定架构
---platform=linux/amd64 star7th/showdoc:v3.2.6
+--platform=linux/amd64 langgenius/dify-api:0.6.12-fix1
