@@ -1,4 +1,4 @@
-xprobe/xinference:v0.14.2
+infiniflow/ragflow:v0.9.0
 #支持指定架构 
---platform=linux/amd64 xprobe/xinference:v0.14.2
+--platform=linux/amd64 infiniflow/ragflow:v0.9.0
 langfuse/langfuse:2
