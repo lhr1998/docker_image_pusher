@@ -1,4 +1,4 @@
-dko0/lsky-pro:2.1
+xprobe/xinference:v0.15.0
 #支持指定架构 
 --platform=linux/amd64 xprobe/xinference:v0.15.0
 
