@@ -1,4 +1,4 @@
-xprobe/xinference:v0.16.0
+oliver006/redis_exporter:v1.52.0
 #支持指定架构 
---platform=linux/amd64 xprobe/xinference:v0.16.0
+--platform=linux/amd64 oliver006/redis_exporter:v1.52.0
 
