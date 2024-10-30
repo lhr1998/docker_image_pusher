@@ -1,4 +1,5 @@
-oliver006/redis_exporter:v1.52.0
+langgenius/dify-sandbox:0.2.10
 #支持指定架构 
---platform=linux/amd64 oliver006/redis_exporter:v1.52.0
+--platform=linux/amd64 langgenius/dify-sandbox:0.2.10
+
 
