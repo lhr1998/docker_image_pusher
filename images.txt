@@ -1,5 +1,5 @@
-xprobe/xinference:v0.16.3
+xprobe/xinference:v0.16.3-cpu
 #支持指定架构 
---platform=linux/amd64 xprobe/xinference:v0.16.3
+--platform=linux/amd64 xprobe/xinference:v0.16.3-cpu
 
 
