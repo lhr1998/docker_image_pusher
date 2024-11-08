@@ -1,5 +1,5 @@
-langgenius/dify-sandbox:0.2.10
+xprobe/xinference:v0.16.3
 #支持指定架构 
---platform=linux/amd64 langgenius/dify-sandbox:0.2.10
+--platform=linux/amd64 xprobe/xinference:v0.16.3
 
 
