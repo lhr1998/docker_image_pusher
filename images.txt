@@ -1,5 +1,5 @@
-xprobe/xinference:v0.16.3-cpu
+linyq1/narratoai:latest
 #支持指定架构 
---platform=linux/amd64 xprobe/xinference:v0.16.3-cpu
+--platform=linux/amd64 linyq1/narratoai:latest
 
 
