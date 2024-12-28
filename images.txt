@@ -1,5 +1,3 @@
-linyq1/narratoai:latest
+xprobe/xinference:latest
 #支持指定架构 
---platform=linux/amd64 linyq1/narratoai:latest
-
-
+--platform=linux/amd64 xprobe/xinference:latest
