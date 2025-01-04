@@ -1,3 +1,3 @@
-flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
 #支持指定架构 
---platform=linux/amd64 flashcatcloud/nightingale:latest
+--platform=linux/amd64 flashcatcloud/categraf:latest
