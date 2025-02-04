@@ -1,3 +1,3 @@
 flashcatcloud/categraf:latest
 #支持指定架构 
---platform=linux/amd64 flashcatcloud/categraf:latest
+--platform=linux/amd64 louislam/uptime-kuma:1
