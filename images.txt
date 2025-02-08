@@ -1,3 +1,3 @@
-louislam/uptime-kuma:1
+ollama/ollama:0.5.8-rc11-rocm
 #支持指定架构 
---platform=linux/amd64 louislam/uptime-kuma:1
+--platform=linux/amd64 ollama/ollama:0.5.8-rc11-rocm
