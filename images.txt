@@ -1,3 +1,3 @@
-chenyme/chenyme-aavt:latest
+chenyme/chenyme-aavt:v0.9.0
 #支持指定架构 
---platform=linux/amd64 chenyme/chenyme-aavt:latest
+--platform=linux/amd64 chenyme/chenyme-aavt:v0.9.0
